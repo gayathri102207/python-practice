@@ -1,0 +1,10 @@
+dictEG={
+    "fruit":"apple",
+    "seeds":"poisonous",
+    "pratheksha":"awesome"
+}
+print(dictEG)
+dictEG["fruit"]="banana"
+print(dictEG)
+dictEG["pratheksha"]="excellent"
+print(dictEG)
