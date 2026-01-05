@@ -1,0 +1,6 @@
+with open("Day10/file.txt",'r') as f:
+    print(f.read())
+with open("Day10/file.txt",'r') as f:
+    print(f.read())
+with open("Day10/file.txt",'r') as f:
+    print(f.read())

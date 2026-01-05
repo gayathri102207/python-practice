@@ -1,0 +1,2 @@
+with open("Day10/newyear.txt",'w') as f:
+    f.write("Happy New Year 2026")
